@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KcuWlGHPfyQEGQTTwK6BOqbnGmhHBTxHlWbxJUgsedk=",
+  "Source": "webHook.ProducerApi",
+  "BasePath": "_content/webHook.ProducerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U4kJonCrUC/lAv3EyIY+tLmZ1/1AX5GyWoSgLX3xYYc=",
+  "Source": "webHook.ConsumerApi",
+  "BasePath": "_content/webHook.ConsumerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
